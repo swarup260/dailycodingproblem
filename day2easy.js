@@ -5,6 +5,8 @@
  * Implement run-length encoding and decoding. 
  * You can assume the string to be encoded have no digits and consists
  * solely of alphabetic characters. You can assume the string to be decoded is valid.
+ * https://www.geeksforgeeks.org/run-length-encoding/#discuss
+ * https://en.wikipedia.org/wiki/Run-length_encoding
  */
 
 function runLengthEncoding(input) {
